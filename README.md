@@ -47,6 +47,9 @@ https://raw.githubusercontent.com/MingNin9466/survey-autofill-helper/main/survey
 
 3. Open a survey page and reload once. A blue **填** button appears at the bottom-right.
 
+> **Mainland China**: aw.githubusercontent.com is often unreachable. Use the mirror:
+> `https://gh-proxy.com/https://raw.githubusercontent.com/MingNin9466/survey-autofill-helper/main/survey-autofill-helper.user.js`
+
 ## Quick start
 
 1. Open the survey fill page (not the editor / preview page).

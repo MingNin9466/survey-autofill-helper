@@ -50,6 +50,9 @@ https://raw.githubusercontent.com/MingNin9466/survey-autofill-helper/main/survey
 
 3. 打开问卷页并刷新一次，右下角出现蓝色「填」按钮。
 
+> **国内网络**：`raw.githubusercontent.com` 经常超时，安装/更新请用镜像地址：
+> `https://gh-proxy.com/https://raw.githubusercontent.com/MingNin9466/survey-autofill-helper/main/survey-autofill-helper.user.js`
+
 ## 快速上手
 
 1. 打开问卷的**填写页**（不是编辑页 / 预览页）；
